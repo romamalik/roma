@@ -2,7 +2,7 @@
   <source src="http://links.papapk.net/punjabi_songs/Hardy_sandhu/Hornn%20Blow%20-%20Hardy%20Sandhu.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title><3Їииөсєит Ѧнмѧԁ<3</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/natur.css" media="all,handheld"/><link rel="shortcut icon" a href="https://www.facebookbrand.com/img/fb-art.jpg">
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title><3Rumaisa Arohi<3</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/natur.css" media="all,handheld"/><link rel="shortcut icon" a href="https://www.facebookbrand.com/img/fb-art.jpg">
 
 <?php
 error_reporting(0);
@@ -278,7 +278,7 @@ $jam=gmdate('H',time()+60*60*7);
 echo'
 <center>
 <div id="header">
-<h3 align="center"><font face="Orbitron" size="7" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;"><b>   ..::[ >> MUHAMMAD ABBAS <<  ]::..   </b></font></h2>
+<h3 align="center"><font face="Orbitron" size="7" style="background: url(&quot;http://i106.photobucket.com/albums/m280/YukioKenshin/chopnhay.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.9em red, 0pt 2pt 0.9em red;"><b>   ..::[ >> Rumaisa Arohi <<  ]::..   </b></font></h2>
 </h1>
 <h2 class="description">
 '.$hr.' : '.$tgl.' - '.$bln.' - '.$thn.'<br>
@@ -292,19 +292,19 @@ echo'
 <h2 class="title">
 Bot By :-
 </h2>
-AHMED&trade;
+Roma&trade;
 </div>
 <div class="post-content">
-<a href="http://m.facebook.com/100010277865158"><img src="https://graph.facebook.com/100010277865158/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="kamina" class="thumbnail"/></a>
+<a href="http://m.facebook.com/100009484915087"><img src="https://graph.facebook.com/100009484915087/picture" style="border: 2px solid #000; padding: 2px; margin: 2px; width: 50px; height: 50px; float: left;" alt="kamina" class="thumbnail"/></a>
 <span>
 <br>
-<li><a href="http://Facebook.com/100010277865158"><h3>ABBAS AHMED</h3></a></li>
-Robot Created By AHMED&trade;<br>
-Add Me On Facebook : <a href="https://www.Facebook.com/100010277865158"><font color="green">Visit</font></h3></center></a><br>
+<li><a href="http://Facebook.com/100009484915087"><h3>Rumaisa Arohi</h3></a></li>
+Robot Created By Roma&trade;<br>
+Add Me On Facebook : <a href="https://www.Facebook.com/100009484915087"><font color="green">Visit</font></h3></center></a><br>
   <a href=""><font color="green"></font></h3></center></a>
 </span>
 <div class="post-meta2">
-<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100010277865158&layout=button_count&amp;show_faces=false&colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/subscribe.php?href=https://www.facebook.com/100009484915087&layout=button_count&amp;show_faces=false&colorscheme=light&font=lucida+grande&amp;width=105&appId=281570931938574" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:50px;" allowTransparency="true"></iframe>
 </div></div></div>';
 }
 public function bwh(){
@@ -336,8 +336,8 @@ echo'
 Users Robot : <font color="Red">'.count($user).'</font>
 <br>
 Script & Bot &copy; 2016<br>
-Powered By <a href="http://facebook.com/100010277865158"><font color="blue">AHMED&trade;</font></h3><br>
-Script Modified By <a href="https://www.Facebook.com/100010277865158"><font color="green">MUHAMMAD ABBAS</font></h3>
+Powered By <a href="http://facebook.com/100009484915087"><font color="blue">Roma Malik&trade;</font></h3><br>
+Script Modified By <a href="https://www.Facebook.com/100009484915087"><font color="green">Rumaisa Arohi</font></h3>
 </div>';
 }
 public function toXen($h){
